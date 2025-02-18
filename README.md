@@ -40,6 +40,7 @@ This repository demonstrates a **micro frontend architecture** using **Next.js**
 
 ## Project Structure
 
+```bash
 frontend-mfe/
 ├── .gitignore
 ├── README.md
@@ -77,6 +78,7 @@ frontend-mfe/
 │       └── components
 │           └── Basket.tsx
 └── ...
+```
 
 ---
 
